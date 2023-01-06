@@ -1,6 +1,7 @@
 -- import: fifthtry.github.io/caffeine-resume as caffeine
 -- import: fifthtry.github.io/resume as r
 -- import: meenukumari.com/assets
+-- import: fifthtry.github.io/texty-ps as ps
 
 -- r.resume john-doe:
 
@@ -105,8 +106,8 @@ company: FifthTry Pvt. Ltd.
 
 
 
--- ds.page:
-widthfill: true
+-- ps.page:
+
 
 
 -- caffeine.show-resume:

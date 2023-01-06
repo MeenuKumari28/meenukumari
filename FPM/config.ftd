@@ -1,4 +1,3 @@
--- import: fifthtry.github.io/doc-site as ds
 -- import: fifthtry.github.io/texty-ps as ps
 
--- ps.site-name: Mk
+-- ps.site-name: M
