@@ -8,9 +8,12 @@ contact-txt: Contact
 contact-url: /contact/
 id: page-id 
 
+Hi I am Meenu Kumari, welcome to my personal website.
+
 -- ps.h3: Skills 
 
-- Go, Lua, Haskell, C, Rust and other languages:
-- Docker (deployment, development & more):
-- Mashups of data:
-- Kubernetes:
+- Html, Css, Javascript, ReactJs, NextJs
+- NodeJs, ExpressJs
+- MongoDB
+- Heroku
+
