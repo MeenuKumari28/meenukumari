@@ -23,7 +23,6 @@ download-base-url: https://raw.githubusercontent.com/meenukumari28/meenukumari/m
   - LinkedIn: https://www.linkedin.com/in/meenu-kumari-3275501b8/
 
 # About: /about/
-nav-title: About Me
   
 
 # Project: /project/
@@ -41,7 +40,7 @@ nav-title: About Me
 # Contact: /contact/
 
 - email:
-  - meenukumariwork@gmail:  https://meenukumariwork@gmail.com/
+  - meenukumariwork@gmail: https://meenukumariwork@gmail.com/
   - Social Media: /
   - GitHub: https://github.com/MeenuKumari17
   - LinkedIN:  https://www.linkedin.com/company/fifthtry/
