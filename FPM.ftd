@@ -11,6 +11,7 @@ download-base-url: https://raw.githubusercontent.com/meenukumari28/meenukumari/m
 -- fpm.auto-import: ds
 -- fpm.auto-import: ps
 -- fpm.auto-import: meenukumari.com/assets 
+-- fpm.auto-import: meenukumari.com/FPM/config 
 
 -- fpm.sitemap:
 
