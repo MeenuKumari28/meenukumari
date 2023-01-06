@@ -5,7 +5,44 @@ download-base-url: https://raw.githubusercontent.com/meenukumari28/meenukumari/m
 
 -- fpm.dependency: fifthtry.github.io/doc-site as ds
 -- fpm.dependency: fifthtry.github.io/resume
+-- fpm.dependency: fifthtry.github.io/texty-ps
 -- fpm.dependency: fifthtry.github.io/caffeine-resume
 
 -- fpm.auto-import: ds
+-- fpm.auto-import: ps
 -- fpm.auto-import: meenukumari.com/assets 
+
+-- fpm.sitemap:
+
+# Home: /index.html
+
+- Quick Links:
+
+  - GitHub: https://github.com/MeenuKumari28
+  - LinkedIn: https://www.linkedin.com/in/meenu-kumari-3275501b8/
+
+# About: /about/
+nav-title: About Me
+  
+
+# Project: /project/
+
+- Highlighted Projects: 
+  - Personal Portfolio: https://myportfoliocheck.netlify.app/
+  - Social Media: https://myportfoliocheck.netlify.app/
+  - Shopping App: https://myportfoliocheck.netlify.app/
+  - Game App: https://myportfoliocheck.netlify.app/
+  - E-commerce Website: https://myportfoliocheck.netlify.app/
+  - Tic Tac Toe: https://myportfoliocheck.netlify.app/
+
+# Resume: /resume/
+
+# Contact: /contact/
+
+- email:
+  - meenukumariwork@gmail:  https://meenukumariwork@gmail.com/
+  - Social Media: /
+  - GitHub: https://github.com/MeenuKumari17
+  - LinkedIN:  https://www.linkedin.com/company/fifthtry/
+  - Discord: https://discord.gg/meenu
+
