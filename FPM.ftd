@@ -38,15 +38,13 @@ nav-title: About Me
 
 # Contact: /contact/
 
-- email :
+- email:
   - meenukumariwork@gmail: 
   url: https://meenukumariwork@gmail.com/
 
-- Social Media:
-  - GitHub 
-  url: https://github.com/MeenuKumari17
-  - LinkedIN
-  url: https://www.linkedin.com/company/fifthtry/
-  - Discord
-  url: https://discord.gg/meenu
+  - Social Media: /
+
+  - GitHub: https://github.com/MeenuKumari17
+  - LinkedIN:  https://www.linkedin.com/company/fifthtry/
+  - Discord: https://discord.gg/meenu
 
